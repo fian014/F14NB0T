@@ -1,4 +1,4 @@
-# 👾AR15BOT👾
+# ☕Fian014☕
 BOT WHATSAPP TERMUX ONLY BY Fian014
 
 ### Alat dan Bahan
@@ -21,7 +21,7 @@ Script ini di modifikasi sama saya sendiri Fian014.
 > termux-setup-storage
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/fian014
+> git clone https://github.com/fian014/F14NB0T
 > cd F14NB0T
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
@@ -29,7 +29,7 @@ Script ini di modifikasi sama saya sendiri Fian014.
 
 ## Features
 
-| AR15BOT      |                   Feature        |
+| Fian014      |                   Feature        |
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
